@@ -5,10 +5,10 @@ public class AllDataTypes {
      short digit =32767;
      int score=24;
      long score1 =1256;
-     float decimal=12;
+     float decimal=12.8f;
      double dec=1.258;;
      boolean bl=false;
-     char symbol=13;
+     char symbol='a';
      System .out.println(number);
      System.out.println(digit);
      System.out.println(score);
