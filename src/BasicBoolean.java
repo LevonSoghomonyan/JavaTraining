@@ -10,5 +10,7 @@ public class BasicBoolean {
         int d=53;
         Boolean arenotequals= c!=d;
         System.out.println(arenotequals);
+
+
 }
 }
