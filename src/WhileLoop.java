@@ -8,5 +8,6 @@ public class WhileLoop {
 
         }
         System.out.println("Cheers");
+
     }
 }
